@@ -1,0 +1,528 @@
+body{
+    background-color: rgb(23, 21, 21);
+    color: #fff;
+}
+.header{text-align: center;
+    padding-top: 100px;
+margin-left: -350px;
+}
+span{
+    color: rgb(227, 28, 88);
+}
+h1{
+    font-size: 50px;
+}
+.HH{
+    font-size: 17px;
+}
+.section1 {
+margin-left: 100px;
+margin: 80px;
+background-color: black;
+width: 550px;
+height: 300px;
+}
+.img1{
+    margin-left: 200px;
+    margin-top: -2px;
+    height: 300px;
+    width: 350px;
+}
+.svg1{
+    display: flex;
+    
+    width: 20px;
+    margin-top: -330px;
+    margin-left: 10px
+    
+}
+.i1{
+    font-size: 10px;
+    margin-top: -55px;
+    margin-left: 40px;
+}
+.i2{
+    margin-left: 470px;
+    margin-top: -32px;
+}
+.i3{
+    color: rgb(227, 28, 88); 
+    margin-left: 40px;
+}
+.i4{
+    font-size: 10px;
+    margin-left: 85px;
+    margin-top: -29px;
+}
+.i5{
+    font-size: 65px;
+    margin-left: 60px;
+    margin-top: -1px;
+    
+    
+}
+.i6{
+    font-size: 15px;
+    margin-top: -50px;
+    margin-left: 70px;
+}
+.i7{
+    font-size: 15px;
+    margin-top: -32px;
+    margin-left: 105px;
+}
+.i8{
+    font-size: 15px;
+    margin-top: -32px;
+    margin-left: 135px;
+}
+.i9{
+   font-size: 8px; 
+   margin-top: 90px;
+   
+}
+.i10{
+    margin-top: -170px;
+    margin-left: 150px;
+    background-color:rgb(227, 28, 88);
+    
+}
+.i11{
+    color:rgb(227, 28, 88) ;
+    margin-left: 250px;
+    margin-top: -123px;
+}
+.i12{
+    font-size: 10px;
+    margin-left: 295px;
+    margin-top: -26px;
+}
+.i13{
+    margin-left: 250px;
+    font-size: 22px;
+}
+.i14{
+    background-color: transparent;
+    color: #fff;
+    margin-left: 250px;
+    margin-top: 30px;
+    width: 120px;
+    height: 30px; }
+
+.i15{
+background-color:rgb(227, 28, 88) ;
+color: #fff;
+height: 30px;
+    }
+
+    .i16{
+ width: 25px;
+margin-top: -400px;
+margin-bottom: 85px;
+margin-left: 55px;
+
+
+} 
+    
+
+.i17{
+     width: 20px;
+     margin-top: -400px;
+     margin-bottom: 75px;
+     margin-left: 520px;
+     
+    
+    
+    } 
+    .i18{
+         width: 20px;
+         margin-top: -400px;
+         margin-bottom: 63px;
+         margin-left: 520px;
+         
+    
+    } 
+    .i19{
+         
+         width: 20px;
+         margin-top: -400px;
+         margin-bottom: 55px;
+         margin-left: 520px;
+         
+    
+    } 
+    .i20{
+        
+        width: 20px;
+        margin-top: -400px;
+        margin-bottom: 45px;
+        margin-left: 520px;
+        
+        
+        } 
+
+    .a21{margin-left: 200px;
+margin-top: 10px;
+    }
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .section2 {
+            
+            margin: 680px;
+            background-color: black;
+            width: 550px;
+            height: 300px;
+            margin-top: -380px;
+            
+            margin-right: -500px;
+            }
+            .img1{
+                margin-left: 200px;
+                margin-top: -2px;
+                height: 300px;
+                width: 350px;
+            }
+            .svg1{
+                display: flex;
+                
+                width: 20px;
+                margin-top: -330px;
+                margin-left: 10px
+                
+            }
+            .i1{
+                font-size: 10px;
+                margin-top: -55px;
+                margin-left: 40px;
+            }
+            .i2{
+                margin-left: 470px;
+                margin-top: -32px;
+            }
+            .i3{
+                color: rgb(227, 28, 88); 
+                margin-left: 40px;
+            }
+            .i4{
+                font-size: 10px;
+                margin-left: 85px;
+                margin-top: -29px;
+            }
+            .i5{
+                font-size: 65px;
+                margin-left: 60px;
+                margin-top: -1px;
+                
+                
+            }
+            .i6{
+                font-size: 15px;
+                margin-top: -50px;
+                margin-left: 70px;
+            }
+            .i7{
+                font-size: 15px;
+                margin-top: -32px;
+                margin-left: 105px;
+            }
+            .i8{
+                font-size: 15px;
+                margin-top: -32px;
+                margin-left: 135px;
+            }
+            .i9{
+               font-size: 8px; 
+               margin-top: 90px;
+               
+            }
+            .i10{
+                margin-top: -170px;
+                margin-left: 150px;
+                background-color:rgb(227, 28, 88);
+                
+            }
+            .i11{
+                color:rgb(227, 28, 88) ;
+                margin-left: 250px;
+                margin-top: -123px;
+            }
+            .i12{
+                font-size: 10px;
+                margin-left: 295px;
+                margin-top: -26px;
+            }
+            .i13{
+                margin-left: 250px;
+                font-size: 22px;
+            }
+            .i14{
+                background-color: transparent;
+                color: #fff;
+                margin-left: 250px;
+                margin-top: 30px;
+                width: 120px;
+                height: 30px; }
+            
+            .i15{
+            background-color:rgb(227, 28, 88) ;
+            color: #fff;
+            height: 30px;
+                }
+            
+                .i16{
+             width: 25px;
+            margin-top: -400px;
+            margin-bottom: 85px;
+            margin-left: 55px;
+            
+            
+            } 
+                
+            
+            .i17{
+                 width: 20px;
+                 margin-top: -400px;
+                 margin-bottom: 75px;
+                 margin-left: 520px;
+                 
+                
+                
+                } 
+                .i18{
+                     width: 20px;
+                     margin-top: -400px;
+                     margin-bottom: 63px;
+                     margin-left: 520px;
+                     
+                
+                } 
+                .i19{
+                     
+                     width: 20px;
+                     margin-top: -400px;
+                     margin-bottom: 55px;
+                     margin-left: 520px;
+                     
+                
+                } 
+                .i20{
+                    
+                    width: 20px;
+                    margin-top: -400px;
+                    margin-bottom: 45px;
+                    margin-left: 520px;
+                    
+                    
+                    } 
+            
+                    .a22{margin-left: 200px;
+                        margin-top: 10px;
+                            }
+            
+            
+            
+            
+                
+            
+            
+
+
+
+
+
+
+
+
+
+
+                    .section3 {
+                       margin:1300px ;
+    
+                        
+                        background-color: black;
+                        width: 550px;
+                        height: 300px;
+                        margin-top: -980px;
+                        
+                        }
+                        .img1{
+                            margin-left: 200px;
+                            margin-top: -2px;
+                            height: 300px;
+                            width: 350px;
+                        }
+                        .svg1{
+                            display: flex;
+                            
+                            width: 20px;
+                            margin-top: -330px;
+                            margin-left: 10px
+                            
+                        }
+                        .i1{
+                            font-size: 10px;
+                            margin-top: -55px;
+                            margin-left: 40px;
+                        }
+                        .i2{
+                            margin-left: 470px;
+                            margin-top: -32px;
+                        }
+                        .i3{
+                            color: rgb(227, 28, 88); 
+                            margin-left: 40px;
+                        }
+                        .i4{
+                            font-size: 10px;
+                            margin-left: 85px;
+                            margin-top: -29px;
+                        }
+                        .i5{
+                            font-size: 65px;
+                            margin-left: 60px;
+                            margin-top: -1px;
+                            
+                            
+                        }
+                        .i6{
+                            font-size: 15px;
+                            margin-top: -50px;
+                            margin-left: 70px;
+                        }
+                        .i7{
+                            font-size: 15px;
+                            margin-top: -32px;
+                            margin-left: 105px;
+                        }
+                        .i8{
+                            font-size: 15px;
+                            margin-top: -32px;
+                            margin-left: 135px;
+                        }
+                        .i9{
+                           font-size: 8px; 
+                           margin-top: 90px;
+                           
+                        }
+                        .i10{
+                            margin-top: -170px;
+                            margin-left: 150px;
+                            background-color:rgb(227, 28, 88);
+                            
+                        }
+                        .i11{
+                            color:rgb(227, 28, 88) ;
+                            margin-left: 250px;
+                            margin-top: -123px;
+                        }
+                        .i12{
+                            font-size: 10px;
+                            margin-left: 295px;
+                            margin-top: -26px;
+                        }
+                        .i13{
+                            margin-left: 250px;
+                            font-size: 22px;
+                        }
+                        .i14{
+                            background-color: transparent;
+                            color: #fff;
+                            margin-left: 250px;
+                            margin-top: 30px;
+                            width: 120px;
+                            height: 30px; }
+                        
+                        .i15{
+                        background-color:rgb(227, 28, 88) ;
+                        color: #fff;
+                        height: 30px;
+                            }
+                        
+                            .i16{
+                         width: 25px;
+                        margin-top: -400px;
+                        margin-bottom: 85px;
+                        margin-left: 55px;
+                        
+                        
+                        } 
+                            
+                        
+                        .i17{
+                             width: 20px;
+                             margin-top: -400px;
+                             margin-bottom: 75px;
+                             margin-left: 520px;
+                             
+                            
+                            
+                            } 
+                            .i18{
+                                 width: 20px;
+                                 margin-top: -400px;
+                                 margin-bottom: 63px;
+                                 margin-left: 520px;
+                                 
+                            
+                            } 
+                            .i19{
+                                 
+                                 width: 20px;
+                                 margin-top: -400px;
+                                 margin-bottom: 55px;
+                                 margin-left: 520px;
+                                 
+                            
+                            } 
+                            .i20{
+                                
+                                width: 20px;
+                                margin-top: -400px;
+                                margin-bottom: 45px;
+                                margin-left: 520px;
+                                
+                                
+                                } 
+                        
+                        
+                        
+                        
+                        
+                        
+                            
+                        
+                        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
